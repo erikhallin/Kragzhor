@@ -1,0 +1,3 @@
+#include "resource.h"
+
+IDI_LUD       ICON         "data\\icon\\icon2.ico"

@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1440321258 source:c:\erikprogram\ld33\ld33 - new\key_reroute.cpp
+	"key_reroute.h"
+
+1440095565 c:\erikprogram\ld33\ld33 - new\key_reroute.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<stdlib.h>
+
+1440458501 source:c:\erikprogram\ld33\ld33 - new\main.cpp
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	<fcntl.h>
+	<stdio.h>
+	<ctime>
+	"definitions.h"
+	"game.h"
+	"resource.h"
+
+1440320451 source:c:\erikprogram\ld33\ld33 - new\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1437299883 c:\erikprogram\ld33\ld33 - new\sound.h
+	"sound_list.h"
+	<cstdlib>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+	<vorbis/vorbisfile.h>
+
+1440432911 c:\erikprogram\ld33\ld33 - new\sound_list.h
+
+1388793472 source:c:\erikprogram\ld33\ld33 - new\gamepad.cpp
+	"gamepad.h"
+
+1402764144 c:\erikprogram\ld33\ld33 - new\gamepad.h
+	<windows.h>
+	<D3D/XInput.h>
+
+1440527372 source:c:\erikprogram\ld33\ld33 - new\game.cpp
+	"game.h"
+
+1440462600 c:\erikprogram\ld33\ld33 - new\game.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<SOIL/SOIL.h>
+	<gl/gl.h>
+	<string>
+	<vector>
+	<ctime>
+	"sound.h"
+	"gamepad.h"
+	"key_reroute.h"
+	"unit.h"
+	"building.h"
+	"projectile.h"
+	"object.h"
+	"particle_engine.h"
+	"hud.h"
+
+1440526214 c:\erikprogram\ld33\ld33 - new\definitions.h
+	<math.h>
+	<stdlib.h>
+
+1440441727 c:\erikprogram\ld33\ld33 - new\unit.h
+	<iostream>
+	<gl/gl.h>
+	"definitions.h"
+
+1440354856 c:\erikprogram\ld33\ld33 - new\building.h
+	<gl/gl.h>
+	"definitions.h"
+
+1440449327 source:c:\erikprogram\ld33\ld33 - new\unit.cpp
+	"unit.h"
+
+1440455570 source:c:\erikprogram\ld33\ld33 - new\building.cpp
+	"building.h"
+
+1437750504 c:\erikprogram\ld33\ld33 - new\projectile.h
+	<iostream>
+	<gl/gl.h>
+	"definitions.h"
+
+1440432237 source:c:\erikprogram\ld33\ld33 - new\projectile.cpp
+	"projectile.h"
+
+1440348493 c:\erikprogram\ld33\ld33 - new\object.h
+	<gl/gl.h>
+	"definitions.h"
+
+1440466131 source:c:\erikprogram\ld33\ld33 - new\object.cpp
+	"object.h"
+
+1440282884 c:\erikprogram\ld33\ld33 - new\particle_engine.h
+	<iostream>
+	<gl/gl.h>
+	<stdlib.h>
+	<math.h>
+	"definitions.h"
+
+1440466321 source:c:\erikprogram\ld33\ld33 - new\particle_engine.cpp
+	"particle_engine.h"
+
+1440460377 c:\erikprogram\ld33\ld33 - new\hud.h
+	<iostream>
+	<gl/gl.h>
+	"definitions.h"
+	"display.h"
+
+1440461863 source:c:\erikprogram\ld33\ld33 - new\hud.cpp
+	"hud.h"
+
+1440460689 source:c:\erikprogram\ld33\ld33 - new\display.cpp
+	"display.h"
+
+1440326156 c:\erikprogram\ld33\ld33 - new\display.h
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<ctype.h>
+	<string>
+	<gl\gl.h>
+
+1440352322 c:\erikprogram\ld33\ld33 - new\resource.h
+
+1440352322 source:c:\erikprogram\ld33\ld33 - new\resource.rc
+	"resource.h"
+
